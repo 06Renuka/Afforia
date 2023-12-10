@@ -30,8 +30,8 @@ const Hero = () => {
           </div>
 
           <div style={{ gap: '10px', display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
-            <button type="button" class="new-btn px-2 px-md-3 btn " style={{ backgroundColor:'rgb(300 230 300)',  padding: ' 0px 20px' ,fontWeight: '500'}}><a href='Tryfree' style={{color:'black',textDecoration:'none'}}>Try for Free</a></button>
-            <button type="button" class="try-button new-btn violet-fill px-2 px-md-3 btn" style={{ backgroundColor: 'white', fontWeight: '500' }}><a href='Pricing'  style={{color:'black',textDecoration:'none'}}>View Pricing</a></button>
+            <button type="button" class="new-btn px-2 px-md-3 btn " style={{ backgroundColor: 'rgb(300 230 300)', padding: ' 0px 20px', fontWeight: '500' }}><a href='Tryfree' style={{ color: 'black', textDecoration: 'none' }}>Try for Free</a></button>
+            <button type="button" class="try-button new-btn violet-fill px-2 px-md-3 btn" style={{ backgroundColor: 'white', fontWeight: '500' }}><a href='Pricing' style={{ color: 'black', textDecoration: 'none' }}>View Pricing</a></button>
           </div>
 
         </div>
@@ -46,9 +46,9 @@ const Hero = () => {
 
 
       </div>
-      <div className='container d-flex flex-column' style={{ marginBottom: '100px',position: 'relative',padding:'10px' }}>
-        <div style={{ overflow: 'hidden', width: '100%', marginTop: '150px', zIndex: '2',marginBottom:'100px' }}>
-          <img style={{ width: '90%', justifyContent: 'center',borderRadius: '30px',margin:'0px 72px'}} src={landing1} alt='' />
+      <div className='container d-flex flex-column' style={{ marginBottom: '100px', position: 'relative', padding: '10px' }}>
+        <div style={{ overflow: 'hidden', width: '100%', marginTop: '150px', zIndex: '2', marginBottom: '100px' }}>
+          <img style={{ width: '90%', justifyContent: 'center', borderRadius: '30px', margin: '0px 72px' }} src={landing1} alt='' />
         </div>
         <div style={{ overflow: 'hidden', width: '100%', zIndex: '1', position: 'absolute', top: 0, left: 0 }}>
           <img style={{ height: '300px', width: '100%', borderRadius: '30px' }} src={background} alt='' />

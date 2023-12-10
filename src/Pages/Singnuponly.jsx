@@ -4,7 +4,7 @@ import './CSS/signuponly.css'
 const Singnuponly = () => {
     return (
         <div id='signup' >
-            <div className="signup-container"   style={{display: 'flex', flexDirection:'column', marginTop:'150px' }}>
+            <div className="signup-container" style={{display: 'flex', flexDirection:'column', marginTop:'150px' }}>
                 <span  style={{ fontSize: '40px',justifyContent:'center',fontWeight:'600',textAlign:'center'}}>Afforai</span>
                 <span style={{ fontSize: '20px',fontWeight:'400',textAlign:'center'}}>Join Friends of Afforai</span>
                 <div className='inner-container' style={{backgroundColor:'white'}}>
