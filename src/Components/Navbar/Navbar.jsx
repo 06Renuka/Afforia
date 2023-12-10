@@ -21,21 +21,21 @@ const Navbar = () => {
               spy={true}
               smooth={true}
               duration={800}
-              style={{ textDecoration: 'black'  }}
+              style={{ textDecoration: 'none', color:'black'  }}
             >Affilates</ScrollLink></span>
             <span><ScrollLink
               to="pricing"
               spy={true}
               smooth={true}
               duration={800}
-              style={{ textDecoration: 'none' }}
+              style={{ textDecoration: 'none',color:'black' }}
             >Pricing</ScrollLink></span>
             <span> <ScrollLink
               to="Testimonials"
               spy={true}
               smooth={true}
               duration={800}
-              style={{ textDecoration: 'none' }}
+              style={{ textDecoration: 'none',color:'black' }}
             > Testimonials</ScrollLink></span>
             <span>Help Center</span>
           </ul>

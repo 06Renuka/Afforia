@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Afforia/static/css/main.e1b3c0dd.css",
-    "main.js": "/Afforia/static/js/main.6dd6584b.js",
+    "main.css": "/Afforia/static/css/main.e92af562.css",
+    "main.js": "/Afforia/static/js/main.75836adf.js",
     "static/js/787.5809fd16.chunk.js": "/Afforia/static/js/787.5809fd16.chunk.js",
     "static/media/laptop-landing-16.png": "/Afforia/static/media/laptop-landing-16.fc31d65e669caac755b6.png",
     "static/media/laptop-landing-3.png": "/Afforia/static/media/laptop-landing-3.40a0d10fd3ee654c3098.png",
@@ -45,12 +45,12 @@
     "static/media/producthunt.svg": "/Afforia/static/media/producthunt.d06fe1e3af30e96131ddcb16d3d9da8c.svg",
     "static/media/power-off.svg": "/Afforia/static/media/power-off.b9e6449753d9f723608349ca5c7a9c05.svg",
     "static/media/check-circle.svg": "/Afforia/static/media/check-circle.7ab1eb1b55107428403033e00c22ddc6.svg",
-    "main.e1b3c0dd.css.map": "/Afforia/static/css/main.e1b3c0dd.css.map",
-    "main.6dd6584b.js.map": "/Afforia/static/js/main.6dd6584b.js.map",
+    "main.e92af562.css.map": "/Afforia/static/css/main.e92af562.css.map",
+    "main.75836adf.js.map": "/Afforia/static/js/main.75836adf.js.map",
     "787.5809fd16.chunk.js.map": "/Afforia/static/js/787.5809fd16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1b3c0dd.css",
-    "static/js/main.6dd6584b.js"
+    "static/css/main.e92af562.css",
+    "static/js/main.75836adf.js"
   ]
 }
