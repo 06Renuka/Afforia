@@ -25,8 +25,8 @@ export let PricingCreditsdata = [
 
 const PricingCredits = () => {
   return (
-    <div className='container' style={{marginBottom:'130px'}}>
-      <div className='row text-center'>
+    <div className='container' style={{margin:'100px', display:'flex', flexDirection:'column', gap:'20px'}}>
+      <div className='row text-center' style={{margin:'10px'}}>
         <h3>Credit Pricing Breakdown</h3>
       </div>
       <table className='table mx-auto' style={{ width:'50%'}}>

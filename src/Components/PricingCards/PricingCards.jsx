@@ -4,7 +4,7 @@ import './PrincingCards.css'; // Create a CSS file for styling
 
 const PricingCards = () => {
   return (
-    <div className='pricing-cards-container container'>
+    <div className='pricing-cards-container container' style={{margin:'100px'}}>
       {PricingDatacards.map((card) => (
         <div key={card.id} className='pricing-card'>
           <div className='d-flex flex-row' style={{gap:'100px'}}>

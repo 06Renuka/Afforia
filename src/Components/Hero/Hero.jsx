@@ -30,8 +30,8 @@ const Hero = () => {
           </div>
 
           <div style={{ gap: '10px', display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
-            <button type="button" class="new-btn gray px-2 px-md-3 btn" style={{ backgroundColor: 'blue', color: 'white', padding: ' 0px 20px' }}>Try for free</button>
-            <button type="button" class="try-button new-btn violet-fill px-2 px-md-3 btn" style={{ backgroundColor: 'white', fontWeight: '500' }}>View Pricing</button>
+            <button type="button" class="new-btn px-2 px-md-3 btn " style={{ backgroundColor:'rgb(300 230 300)',  padding: ' 0px 20px' ,fontWeight: '500'}}><a href='Tryfree' style={{color:'black',textDecoration:'none'}}>Try for Free</a></button>
+            <button type="button" class="try-button new-btn violet-fill px-2 px-md-3 btn" style={{ backgroundColor: 'white', fontWeight: '500' }}><a href='Pricing'  style={{color:'black',textDecoration:'none'}}>View Pricing</a></button>
           </div>
 
         </div>

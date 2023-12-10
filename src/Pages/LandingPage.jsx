@@ -1,6 +1,7 @@
 
 
 import ChooseUs  from '../Components/ChooseUs/ChooseUs';
+//import Navbar from '../Components/Navbar/Navbar.jsx'
 import Versetile from '../Components/Versetile/Versetile';
 import Modes from '../Components/Modes/Modes'
 import CEO from '../Components/CEO/CEO'
@@ -16,6 +17,8 @@ import Landing17 from '../Components/Landing17/Landing17.jsx'
 import Landing14 from '../Components/Landling14/Landing14.jsx';
 import Usage from '../Components/Usage/Usage.jsx'
 import Testonominals from '../Components/Testonominals/Testonominals.jsx'
+import Navbar from '../Components/Navbar/Navbar.jsx';
+//import Navbar from '../Components/Navbar/Navbar.jsx';
 
 
 
@@ -25,6 +28,10 @@ import Testonominals from '../Components/Testonominals/Testonominals.jsx'
 function LandingPage() {
   return (
     <div className='' id='LandingPage'>
+    <Navbar/>
+    
+     
+    
       <Hero />
 
       <Usage />

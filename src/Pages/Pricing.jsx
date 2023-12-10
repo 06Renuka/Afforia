@@ -6,10 +6,12 @@ import HeaderPricing from '../Components/HeaderPricing/HeaderPricing.jsx';
 import PricingCards from '../Components/PricingCards/PricingCards.jsx';
 import PricingCredits from '../Components/PricingCredits/PricingCredits.jsx';
 import PricingFeature from '../Components/PricingFeatures/PricingFeature.jsx';
+import Navbar from '../Components/Navbar/Navbar.jsx';
 
 const Pricing = () => {
   return (
     <div className='pricing' id='Pricing'>
+    <Navbar/>
       <HeaderPricing />
       <PricingCards />
       <PricingCredits />
