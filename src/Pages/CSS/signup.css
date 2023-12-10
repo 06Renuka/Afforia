@@ -1,0 +1,17 @@
+.signup{
+   gap: 50px;
+}
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    padding: 10px 10px;
+   
+    transition: border-color 0.3s; /* Add a smooth transition for the border color */
+  }
+
+input:focus {
+    border-color: #87CEEB; /* Faint blue color when focused */}
+label{
+    gap: 3px;
+    width: 100%;
+}

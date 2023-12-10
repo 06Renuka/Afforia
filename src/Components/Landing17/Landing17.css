@@ -1,0 +1,26 @@
+.cardbenefits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Adjust as needed */
+  }
+  
+  .card {
+    width: 400px; /* Adjust the width as needed */
+    margin: 10px;
+    padding: 15px;
+   
+
+    border: 1px solid #ccc; /* Add a border for better separation */
+  }
+  .landing-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .content {
+    text-align: center;
+  }
+  
+  
+  

@@ -1,0 +1,16 @@
+
+  
+  .leftSide,
+  .rightSide {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .text,
+  .code {
+    width: 45%; 
+  }
+  
+  
+  
