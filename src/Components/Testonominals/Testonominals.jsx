@@ -1,4 +1,4 @@
-import './Testonminals.css'
+
 import Slider from "react-slick";
 import phreview from '../../Assets/ph-review.webp'
 
@@ -30,7 +30,7 @@ const Testonominals = () => {
     
   };
   return (
-    <div className='testonominals' id='Testonominals' style={{marginTop:'100px', marginBottom:'100px'}}>
+    <div className='testonominals' id='Testimonials' style={{marginTop:'100px', marginBottom:'100px'}}>
     <div className='container' style={{ margin: '100px' }}>
     <div className='content' style={{ textAlign: 'center'}}>
       <div className='row'>

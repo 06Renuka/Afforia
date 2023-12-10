@@ -10,7 +10,7 @@ import badage from '../../Assets/top-post-badge.svg'
 
 function Footer() {
   return (
-    <footer className="bg-gray-500" style={{overflow:'hidden'}}>
+    <footer className="bg-gray-500 " style={{overflow:'hidden',marginTop:'150px'}}>
       <div className="container mb-md-5">
         <div className="row flex flex-column justify-between">
           <div className='justify-Content-center pt-5 col d-flex'>
